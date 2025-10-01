@@ -32,9 +32,10 @@ int main(){
 			printf("You have selected 2GB. cost = 600KES \n");
 			break;
 		default:
-		    printf("invalid choice");
+		    printf("\n invalid choice");
 			break;	
 	}
 	
 	return 0;
+
 }
